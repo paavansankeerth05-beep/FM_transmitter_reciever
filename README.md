@@ -132,12 +132,11 @@ You can simulate the transmitter and receiver circuits using:
 
 ## 📸 Circuit Diagrams
 Transmitter Circuit:
-![Transmitter](link-to-your-transmitter-image)
+<img width="872" height="514" alt="image" src="https://github.com/user-attachments/assets/7dbbc944-2aa8-401a-8aa4-eee1dcf1a889" />
+
 
 Receiver Circuit:
-![Receiver](link-to-your-receiver-image)
-
-*(Replace the above links with your uploaded circuit images from GitHub repository.)*
+<img width="1280" height="677" alt="image" src="https://github.com/user-attachments/assets/f42e353b-ca69-4bf0-9765-a55c6cf87105" />
 
 ---
 
@@ -158,4 +157,4 @@ This project was collaboratively designed and tested by:
 ## 📬 Contact
 For queries or collaboration:
 Email:paavansankeerth05@gmail.com  
-GitHub: [your-github-profile-link]
+GitHub: https://github.com/paavansankeerth05-beep
