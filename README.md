@@ -151,18 +151,11 @@ Receiver Circuit:
 
 ## 👥 Contributors
 This project was collaboratively designed and tested by:
-- [Your Name]
-- [Team Members]
-
----
-
-## 📄 License
-This project is open-source under the MIT License.  
-Feel free to use, modify, and distribute it with proper credit.
+- Paavan sankeerth
 
 ---
 
 ## 📬 Contact
 For queries or collaboration:
-Email: [your-email@example.com]  
+Email:paavansankeerth05@gmail.com  
 GitHub: [your-github-profile-link]
