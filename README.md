@@ -136,7 +136,7 @@ Transmitter Circuit:
 
 
 Receiver Circuit:
-<img width="1280" height="677" alt="image" src="https://github.com/user-attachments/assets/f42e353b-ca69-4bf0-9765-a55c6cf87105" />
+<img width="413" height="292" alt="fm_receiver" src="https://github.com/user-attachments/assets/1ebf6e31-bd30-489c-9ad5-1f7eed0353c8" />
 
 ---
 
